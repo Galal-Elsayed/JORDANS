@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-table\tdisplay"
+			],
+			[
+				"i",
+				"inline-grid\tdisplay"
+			],
+			[
+				"c",
+				"table-cell\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"fonts",
+				"font-style\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"n",
+				"lower-norwegian\tlist-style"
+			],
+			[
+				"right",
+				"right\tproperty"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"posit",
+				"text-underline-position\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"s",
+				"somali\tlist-style"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"image",
+				"background-image\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"ri",
+				"right\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"position",
+				"background-position\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"brod",
+				"border-color\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/agala/OneDrive/Desktop/Website 2/index.html",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/agala/OneDrive/Desktop/Website 2/css/style.css",
+		"/C/Users/agala/OneDrive/Desktop/Website 2/index.html",
+		"/C/Users/agala/OneDrive/Desktop/Website/css/style.css",
+		"/C/Users/agala/OneDrive/Desktop/Website/index.html",
+		"/C/Users/agala/OneDrive/Desktop/Website 2/css/index.html.txt",
+		"/C/Users/agala/OneDrive/Desktop/Website 2/index.html.txt",
+		"/C/Users/agala/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/D/webpage.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/agala/OneDrive/Desktop/Website 2/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
